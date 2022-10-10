@@ -1,4 +1,4 @@
 # xstudy
 X version of Study written in C.
 
-Terminal on Linux only :P
+X11 supported. This project has great delay on me processing it. |:P
